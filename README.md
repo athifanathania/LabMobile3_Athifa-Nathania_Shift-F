@@ -24,8 +24,7 @@
 
 ## Screenshot Aplikasi
 ![Screenshot Halaman Login](login_page.png) ![Screenshot Home](home_page.png)
-![Screenshot Side Menu](side_menu.png) ![Screenshot Halaman About](about.png)
-![Screenshot Halaman Profile](profile.png)
+![Screenshot Side Menu](side_menu.png) ![Screenshot Halaman About](about.png) ![Screenshot Halaman Profile](profile.png)
 
 ## Penjelasan Kode
 ### 1. Login Page
