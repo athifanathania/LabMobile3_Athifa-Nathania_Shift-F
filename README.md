@@ -23,10 +23,8 @@
 - **`product_card.dart`**: Komponen card untuk menampilkan informasi produk di halaman `Home`.
 
 ## Screenshot Aplikasi
-![Screenshot Halaman Login](login_page.png)
-![Screenshot Home](home_page.png)
-![Screenshot Side Menu](side_menu.png)
-![Screenshot Halaman About](about.png)
+![Screenshot Halaman Login](login_page.png) ![Screenshot Home](home_page.png)
+![Screenshot Side Menu](side_menu.png) ![Screenshot Halaman About](about.png)
 ![Screenshot Halaman Profile](profile.png)
 
 ## Penjelasan Kode
